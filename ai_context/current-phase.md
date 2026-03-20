@@ -4,26 +4,27 @@
 
 ## Active Phase
 
-Phase 0 — Architecture and AI Context Foundation
+Phase 0 — Architecture and AI Context Foundation (COMPLETED)
+
+## Current Status
+
+We have established the architectural foundation, phased implementation plan, and AI context files. This phase is complete.
 
 ## Current Objective
 
-Document the high-level architecture, phased roadmap, and AI-readable project context for the AI Guardrails Platform.
+Prepare for Phase 1 by defining the platform skeleton and core interfaces.
 
 ## In Scope Right Now
 
-- architecture documentation
-- high-level diagrams
-- implementation phases
-- AI context files for coding agents
+- transitioning to Phase 1
+- defining core request/response contracts
+- defining guardrail check and policy decision interfaces
 
 ## Out of Scope Right Now
 
-- application code
-- provider integration
-- real policy engine implementation
-- real observability stack
-- evaluation harness implementation
+- detailed implementation of detection models
+- complex observability stack components
+- evaluation dataset implementation
 
 ## Near-Term Next Stories
 
